@@ -20,3 +20,5 @@ There should be only one web page collecting & validating the fields values as i
 13.	`Testing` - Create testscripts for PVC -APP execution.
 14.	`Testing` - Install build tool Gradle.
 15.	`Testing` - Use Gradle and create plugin pygradle for running testscripts.
+
+Adding new line from local repo
